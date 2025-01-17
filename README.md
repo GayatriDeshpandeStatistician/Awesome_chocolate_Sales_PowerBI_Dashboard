@@ -6,6 +6,7 @@ Import Data From Excel File
 
 #### Data Cleaning
 Use Power Query to clean up Data in PowerBI,Using Power Query will edit the data in PowerBI Keeping the Original excel File Intact
+
 Replacing Null values to Special( Power Query is Case Sensitive)
 
 #### Features
