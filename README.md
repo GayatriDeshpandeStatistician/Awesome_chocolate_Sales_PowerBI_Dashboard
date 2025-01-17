@@ -10,6 +10,9 @@ Replacing Null values to Special( Power Query is Case Sensitive)
 
 #### Features
 Sales Trends: Visualize historical sales data to identify growth patterns.
+
 Forecasting: Predict sales for the next three months using Power BI's built-in forecasting tools.
+
 Regional Analysis: Break down sales by regions, categories, and product lines.
+
 Interactive Filters: Drill down into specific time periods, products, or regions for deeper insights.
